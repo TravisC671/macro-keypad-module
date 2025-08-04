@@ -1,3 +1,5 @@
+name: zmk-keyboard-macro_keypad
+
 build:
   settings:
     board_root: .
