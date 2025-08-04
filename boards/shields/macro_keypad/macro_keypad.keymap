@@ -8,10 +8,10 @@
         default_layer { // Layer 0
             // -------------------------------------
             // |     Z     |     M     |     K     |      K     |
-            // |     A     |     B     |     C     |     C     |
+            // |     A     |     B     |     C     |   unlock   |
             bindings = <
                 &kp Z    &kp M    &kp K    &kp K
-                &kp A    &kp B    &kp C    &kp C
+                &kp A    &kp B    &kp C    &studio_unlock
             >;
         };
     };
